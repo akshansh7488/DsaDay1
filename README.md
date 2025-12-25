@@ -1,4 +1,5 @@
-# DSA Day 1 – Array Basics
+#DSA
+DSA Day 1 – Array Basics
 
 Problems solved:
 - Find maximum element
